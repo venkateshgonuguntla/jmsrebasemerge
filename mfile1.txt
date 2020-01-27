@@ -1,3 +1,4 @@
-this is first  line m1
-this is seceondline m2
-this is thirdline m3
+this is first   line m1
+this is seceond line m2
+this is third   line m3
+git revert
